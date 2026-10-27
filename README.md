@@ -4,7 +4,8 @@ Official code for:
 
 > E. Dhar, D. C. Lepcha, A. Ali, S. Mallik, L. Gaur, S. Syed-Abdul.
 > **SalFuseFormer: A saliency-guided fusion transformer framework for clinically motivated multi-modal medical image fusion.**
-> *Biomedical Signal Processing and Control*, 2026 (in press). Article BSPC_111701. DOI: _to be added on publication_.
+> *Biomedical Signal Processing and Control*, **131** (2027) 111701.
+> DOI: [10.1016/j.bspc.2026.111701](https://doi.org/10.1016/j.bspc.2026.111701) · [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809426022597)
 
 SalFuseFormer adds two training-free modules to a domain-fine-tuned SwinFusion backbone:
 
@@ -182,8 +183,10 @@ The statistics and figure scripts compare SalFuseFormer against baseline outputs
   title   = {SalFuseFormer: A saliency-guided fusion transformer framework for clinically motivated multi-modal medical image fusion},
   author  = {Dhar, Eshita and Lepcha, Dawa Chyophel and Ali, Aaliya and Mallik, Saurav and Gaur, Loveleen and Syed-Abdul, Shabbir},
   journal = {Biomedical Signal Processing and Control},
-  year    = {2026},
-  note    = {In press}
+  volume  = {131},
+  pages   = {111701},
+  year    = {2027},
+  doi     = {10.1016/j.bspc.2026.111701}
 }
 ```
 
@@ -193,4 +196,4 @@ The backbone code (`models/`, `utils/`, `data/`, `options/`, `test_swinfusion.py
 
 ## Contact
 
-Dawa Chyophel Lepcha and Shabbir Syed-Abdul (corresponding authors), Taipei Medical University.
+Dawa Chyophel Lepcha (chyophel@gmail.com) and Shabbir Syed-Abdul, corresponding authors, Taipei Medical University.
