@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code or the fine-tuned weights, please cite the article below."
+type: software
+title: "SalFuseFormer: code and fine-tuned weights for saliency-guided multi-modal medical image fusion"
+version: 1.0.0
+date-released: 2026-10-31
+license: Apache-2.0
+repository-code: "https://github.com/dawachyophel/SalFuseFormer"
+keywords:
+  - medical image fusion
+  - PET-MRI
+  - Swin Transformer
+  - Alzheimer's disease
+  - saliency
+authors:
+  - family-names: Dhar
+    given-names: Eshita
+    affiliation: Taipei Medical University
+  - family-names: Lepcha
+    given-names: Dawa Chyophel
+    affiliation: Taipei Medical University
+    orcid: "https://orcid.org/0000-0002-1424-0449"
+    email: ra1537@tmu.edu.tw
+  - family-names: Ali
+    given-names: Aaliya
+    affiliation: University of Memphis
+  - family-names: Mallik
+    given-names: Saurav
+    affiliation: Harvard T.H. Chan School of Public Health
+  - family-names: Gaur
+    given-names: Loveleen
+    affiliation: Alliance University
+  - family-names: Syed-Abdul
+    given-names: Shabbir
+    affiliation: Taipei Medical University
+preferred-citation:
+  type: article
+  title: "SalFuseFormer: A saliency-guided fusion transformer framework for clinically motivated multi-modal medical image fusion"
+  journal: "Biomedical Signal Processing and Control"
+  volume: 131
+  start: 111701
+  year: 2027
+  doi: "10.1016/j.bspc.2026.111701"
+  authors:
+    - family-names: Dhar
+      given-names: Eshita
+    - family-names: Lepcha
+      given-names: Dawa Chyophel
+    - family-names: Ali
+      given-names: Aaliya
+    - family-names: Mallik
+      given-names: Saurav
+    - family-names: Gaur
+      given-names: Loveleen
+    - family-names: Syed-Abdul
+      given-names: Shabbir
