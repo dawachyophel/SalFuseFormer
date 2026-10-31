@@ -1,5 +1,7 @@
 # SalFuseFormer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23831905.svg)](https://doi.org/10.5281/zenodo.23831905) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 Official code for:
 
 > E. Dhar, D. C. Lepcha, A. Ali, S. Mallik, L. Gaur, S. Syed-Abdul.
@@ -193,6 +195,19 @@ The backbone code in `models/`, `utils/`, `data/`, `options/` and `test_swinfusi
   pages   = {111701},
   year    = {2027},
   doi     = {10.1016/j.bspc.2026.111701}
+}
+```
+
+To cite the code and weights specifically (v1.0.0, archived on Zenodo):
+
+```bibtex
+@software{salfuseformer_code_2026,
+  title     = {SalFuseFormer: code and fine-tuned weights for saliency-guided multi-modal medical image fusion},
+  author    = {Dhar, Eshita and Lepcha, Dawa Chyophel and Ali, Aaliya and Mallik, Saurav and Gaur, Loveleen and Syed-Abdul, Shabbir},
+  year      = {2026},
+  version   = {1.0.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23831905}
 }
 ```
 

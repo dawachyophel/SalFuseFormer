@@ -3,6 +3,7 @@ message: "If you use this code or the fine-tuned weights, please cite the articl
 type: software
 title: "SalFuseFormer: code and fine-tuned weights for saliency-guided multi-modal medical image fusion"
 version: 1.0.0
+doi: "10.5281/zenodo.23831905"
 date-released: 2026-10-31
 license: Apache-2.0
 repository-code: "https://github.com/dawachyophel/SalFuseFormer"
