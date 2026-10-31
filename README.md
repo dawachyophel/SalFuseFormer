@@ -176,6 +176,12 @@ The statistics and figure scripts compare SalFuseFormer against baseline outputs
 
 ---
 
+## License
+
+The SalFuseFormer code in this repository (the saliency, edge-injection, chrominance-fusion, fine-tuning, evaluation and figure scripts) is released under the [Apache License 2.0](LICENSE).
+
+The backbone code in `models/`, `utils/`, `data/`, `options/` and `test_swinfusion.py` is adapted from [SwinFusion](https://github.com/Linfeng-Tang/SwinFusion), which is based on [SwinIR](https://github.com/JingyunLiang/SwinIR) (Apache-2.0) and [KAIR](https://github.com/cszn/KAIR) (MIT). These files remain subject to their original authors' terms. The fine-tuned weights are derived from the SwinFusion pretrained model and are provided for research use.
+
 ## Citation
 
 ```bibtex
@@ -196,4 +202,7 @@ The backbone code (`models/`, `utils/`, `data/`, `options/`, `test_swinfusion.py
 
 ## Contact
 
-Dawa Chyophel Lepcha (chyophel@gmail.com) and Shabbir Syed-Abdul, corresponding authors, Taipei Medical University.
+Corresponding authors, Taipei Medical University:
+
+- Dawa Chyophel Lepcha: ra1537@tmu.edu.tw, chyophel@gmail.com
+- Shabbir Syed-Abdul: drshabbir@tmu.edu.tw
