@@ -1,0 +1,11 @@
+# Environment used for the published results (see README: Requirements)
+torch==2.5.1
+opencv-python==4.8.*
+numpy==1.24.*
+scikit-image
+scipy
+pandas
+matplotlib
+nibabel
+thop
+timm

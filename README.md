@@ -78,7 +78,7 @@ The original environment was:
 Other packages used: scikit-image, SciPy, pandas, matplotlib, nibabel (ADNI-3), thop (FLOPs) and timm (Swin backbone).
 
 ```bash
-pip install torch==2.5.1 opencv-python==4.8.* numpy==1.24.* scikit-image scipy pandas matplotlib nibabel thop timm
+pip install -r requirements.txt
 ```
 
 ---
